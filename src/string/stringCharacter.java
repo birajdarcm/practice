@@ -12,7 +12,7 @@ public class stringCharacter
 		if(s.charAt(i)!=' ')
 		count++;		
 	}
-	
+//	this is comment 
 	System.out.println(count);
 }
 }
